@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "allowJs": true,
+    "checkJs": true,
+    "rootDirs": [
+        "./src"
+    ],
+    "outDir": "./build",
+    "esModuleInterop": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "inlineSourceMap": true,
+    "allowSyntheticDefaultImports": true,
+  }
+}
