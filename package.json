@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "ioredis": "^4.27.2",
     "lamp-core": "^2021.7.27",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.2",
     "source-map-support": "^0.5.19",
     "tar-stream": "^2.2.0",
     "ts-nats": "^1.2.15"
